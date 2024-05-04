@@ -1,5 +1,7 @@
 # pi-nvr
-Simple RTSP stream recorder using OpenRTSP on an rpi
+Simple RTSP stream recorder using OpenRTSP on an rpi.
+
+This configuration is used for an Amcrest AD110 Doorbell Camera that exposes a RTSP stream at `rtsp://<camera-ip-address>:554/cam/realmonitor?channel=1&subtype=0&authbasic=64`
 
 ## Installing OpenRTSP
 ```
