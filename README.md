@@ -54,5 +54,8 @@ sudo systemctl enable frontdoor-cam.service
 sudo systemctl start frontdoor-cam.service
 ```
 
+## Creating Storage Mount Point - Auto Mount
+https://www.shellhacks.com/raspberry-pi-mount-usb-drive-automatically/
+
 ## To Do
 - Do all this with Ansible
